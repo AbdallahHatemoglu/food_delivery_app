@@ -38,7 +38,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           },
         ],
-        'Simply put, ramen is a Japanese noodle soup, with a Shrimp, egg, and Scallion',
+        'Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.',
         hightLight: true),
       Food(
         'assets/images/dish2.png',
@@ -63,7 +63,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           },
         ],
-        'Simply put, ramen is a Japanese noodle soup, with a Shrimp, egg, and Scallion'),
+        'Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.'),
     Food(
         'assets/images/dish3.png',
         'Highly Recommendeded',
@@ -87,7 +87,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           },
         ],
-        'Simply put, ramen is a Japanese noodle soup, with a Shrimp, egg, and Scallion'),
+        'Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.'),
     ];
   }
 
@@ -116,7 +116,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           },
         ],
-        'Simply put, ramen is a Japanese noodle soup, with a Shrimp, egg, and Scallion'),
+        'Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.'),
         Food(
         'assets/images/dish1.png',
         'No1. in Sales',
@@ -140,7 +140,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           },
         ],
-        'Simply put, ramen is a Japanese noodle soup, with a Shrimp, egg, and Scallion',
+        'Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.',
         hightLight: true),
     ];
   }
